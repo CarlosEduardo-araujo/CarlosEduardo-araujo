@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @CarlosEduardo-araujo
-- 👀 I’m interested in Data science e Data analytics
-- 🌱 I’m currently learning python and machine learning
 - 📫 How to reach me? araujo.cadu99@gmail.com
 
 <!---
